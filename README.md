@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" height="250" width="900" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif">
 <h1 align="center">Hi 👋, I'm VAIBHAV</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align="center" alt="Coding" height="400" width="400" src="https://thumbs.dreamstime.com/b/data-science-concept-icon-learning-top-digital-skill-abstract-idea-thin-line-illustration-big-analysis-processing-isolated-outline-247112528.jpg">
+<img align="center" alt="Coding" height="400" width="400" src="https://raw.githubusercontent.com/mateuszk098/kaggle_notebooks/master/playground_series_s3e25/undraw_Developer_activity_re_39tg.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datawizard42&label=Profile%20views&color=0e75b6&style=flat" alt="datawizard42" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawizard42" alt="datawizard42" /></a> </p>
